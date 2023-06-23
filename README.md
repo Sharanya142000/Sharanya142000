@@ -1,3 +1,5 @@
+### Being hit by a complex feeling of cognition accompanying the desire to explore and learn how much society can be impacted by the power of data truly shook into my shoes, and this paved the way for me to dive deep into the fantabulous field of Data Science. Since then deriving insights from data after skillfully analyzing them and making predictions out of it with Machine Learning Algorithms has become my dopamine!
+
 ###  I am a self-motivated graduate candidate pursuing Master of Science majoring in Data Science, looking forward to exposing myself to large datasets and transforming them to create a social impact. I am proficient in Python, R, SQL, Data Analysis, and Data Visualization Tools such as Tableau and Power BI with Machine Learning and Natural Language Processing being my greatest passion!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanya142000&label=Profile%20views&color=0e75b6&style=flat" alt="sharanya142000" /> </p>
