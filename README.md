@@ -1,4 +1,4 @@
-#  I am a self-motivated graduate candidate pursuing Master of Science majoring in Data Science, looking forward to exposing myself to large datasets and transforming them to create a social impact. I am proficient in Python, R, SQL, Data Analysis, and Data Visualization Tools such as Tableau and Power BI with Machine Learning and Natural Language Processing being my greatest passion!
+###  I am a self-motivated graduate candidate pursuing Master of Science majoring in Data Science, looking forward to exposing myself to large datasets and transforming them to create a social impact. I am proficient in Python, R, SQL, Data Analysis, and Data Visualization Tools such as Tableau and Power BI with Machine Learning and Natural Language Processing being my greatest passion!
 
 # 💫 About Me:
 🔭 Pursuing Master of Science in Data Science at Northeastern University.<br>🤝 Glad to converse and join research groups in ML and NLP.<br>🌱 Expanding my cognition in the field of Data Science.<br>🔎 Looking for full-time opportunities to unleash my knowledge in Data Science.<br>
