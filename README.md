@@ -1,12 +1,12 @@
 ###  I am a self-motivated graduate candidate pursuing Master of Science majoring in Data Science, looking forward to exposing myself to large datasets and transforming them to create a social impact. I am proficient in Python, R, SQL, Data Analysis, and Data Visualization Tools such as Tableau and Power BI with Machine Learning and Natural Language Processing being my greatest passion!
 
 # 💫 About Me:
-🔭 Pursuing Master of Science in Data Science at Northeastern University.<br>🤝 Glad to converse and join research groups in ML and NLP, reach me at sharanyasenthil142@gmail.com<br>🌱 Expanding my cognition in the field of Data Science.<br>🔎 Looking for full-time opportunities to unleash my knowledge in Data Science.<br>
+🔭 Pursuing Master of Science in Data Science at Northeastern University.<br>🤝 Glad to converse and join research groups in ML and NLP.<br>🌱 Expanding my cognition in the field of Data Science.<br>🔎 Looking for full-time opportunities to unleash my knowledge in Data Science.<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharanya142000/) 
-[![GMail](https://img.shields.io/badge/GMail-%230077B5.svg?logo=gmail&logoColor=white)](sharanyasenthil142@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharanya142000/) 
+[![GMail](https://img.shields.io/badge/GMAIL-%230077B5.svg?logo=gmail&logoColor=white)](sharanyasenthil142@gmail.com) 
 [![Gmail](sharanyasenthil142@gmail.com) 
 
 # 💻 Tech Stack:
