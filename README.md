@@ -6,6 +6,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharanya142000/) 
+[![GMail](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=gmail&logoColor=white)](sharanyasenthil142@gmail.com) 
 [![Gmail](sharanyasenthil142@gmail.com) 
 
 # 💻 Tech Stack:
