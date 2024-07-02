@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanya142000&label=Profile%20views&color=0e75b6&style=flat" alt="sharanya142000" /> </p>
 
 # 💫 About Me:
-🔭 Pursuing Master of Science in Data Science at Northeastern University.<br>🤝 Glad to converse and join research groups in ML and NLP.<br>⚡ Machine Learning Engineer by Profession and expanding my cognition in the field of Data Science.<br>📫 Reach out to me at **sharanyasenthil142@gmail.com**
+⚡ Machine Learning Engineer by Profession and expanding my cognition in the field of Data Science.🔭 Pursued Master of Science in Data Science at Northeastern University.<br>🤝 Glad to converse and join research groups in ML and NLP.<br>📫 Reach out to me at **sharanyasenthil142@gmail.com**
 
 
 ## 🌐 Socials:
